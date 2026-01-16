@@ -7,3 +7,4 @@ texte.addEventListener("click", () => {
         texte.style.color = "aqua";
     }
 });
+console.log("Script chargé avec succès !");
